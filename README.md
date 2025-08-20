@@ -1,5 +1,5 @@
 # Android-app-with-webview-widget
-Приложение с виджетом webview. Для того чтобы найти сайт или браузер достаточно ввести url адрес, нажать кнопку и всё отобразится на виджете webview. Также есть второй экран на который можно перейти по нажатию кнопки
+Application with webview widget. In order to find a site or browser, it is enough to enter the URL address, press the button and everything will be displayed on the webview widget. There is also a second screen that can be accessed by pressing the button
 
 ![](AppScreenshots/demoScreen.jpg)
 
